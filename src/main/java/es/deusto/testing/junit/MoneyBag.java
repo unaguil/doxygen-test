@@ -10,6 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * nklasdfljbsadbkjadfsvewr hkakehbqwkdjhwkBD KSAN, SAKC
  * A MoneyBag defers exchange rate conversions. For example adding 
  * 12 Swiss Francs to 14 US Dollars is represented as a bag 
  * containing the two Money objects associated to 12 CHF and 14 USD. Adding another
